@@ -1,8 +1,8 @@
-# <Your-Project-Title>
+# Horiseon Project
 
 ## Description
 
-The goal of the project was to clean up the html and the css codes so it's easier to read for future developers that work on it. This project was done as practice for my skills and to have my peers review it. I learned semantics html, how to properly group on css.
+The goal of the project was to clean up the html and the css codes so it's easier to read for future developers that work on it. This project was done as practice for my skills and to have my peers review it. I learned semantics html, how to properly group on css.😀
 ## Table of Contents 
 
 
@@ -10,16 +10,15 @@ The goal of the project was to clean up the html and the css codes so it's easie
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Badges](#badges)
-- 
+
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Clone the repository to your local machine and open the index.html file in your browser
 
 ## Usage
 
-[Deployed Site]()
+[Deployed Site](https://andresilva8624.github.io/first-assignment/)
 
 ![gif of deployed site](./assets/images/website.gif)
    
@@ -58,8 +57,6 @@ To contact me use one of the links below
 
 
 [GitHub](https://www.github.com/andresilva8624)
-
-
 
 
 
