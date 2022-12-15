@@ -18,7 +18,7 @@ Clone the repository to your local machine and open the index.html file in your 
 
 ## Usage
 
-[Deployed Site](https://andresilva8624.github.io/first-assignment/)
+[Deployed Site](https://andresilva8624.github.io/Horiseon-SEO/)
 
 ![gif of deployed site](./assets/images/website.gif)
    
